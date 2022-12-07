@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c08f66a9-08ba-41fe-8574-6627027cf797" name="Changes" comment="some navbar">
-      <change afterPath="$PROJECT_DIR$/components/Button.jsx" afterDir="false" />
+    <list default="true" id="c08f66a9-08ba-41fe-8574-6627027cf797" name="Changes" comment="navbar done (mobile included)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Footer.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Navbar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,7 @@
       <workItem from="1669706425571" duration="4000" />
       <workItem from="1670183338449" duration="3190000" />
       <workItem from="1670265149105" duration="278000" />
-      <workItem from="1670346769279" duration="6874000" />
+      <workItem from="1670346769279" duration="11062000" />
     </task>
     <task id="LOCAL-00001" summary="setup">
       <created>1669692329311</created>
@@ -122,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670263818839</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="navbar done (mobile included)">
+      <created>1670451518673</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670451518673</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +145,7 @@
     <MESSAGE value="app setup" />
     <MESSAGE value="general" />
     <MESSAGE value="some navbar" />
-    <option name="LAST_COMMIT_MESSAGE" value="some navbar" />
+    <MESSAGE value="navbar done (mobile included)" />
+    <option name="LAST_COMMIT_MESSAGE" value="navbar done (mobile included)" />
   </component>
 </project>
